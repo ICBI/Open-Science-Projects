@@ -22,6 +22,11 @@ As of October 2018, we have a total of 56 github repositories and 17 members.
   * Link to code in github: [https://github.com/ICBI/viGEN](https://github.com/ICBI/viGEN)
   * Link to publication: [Bhuvaneshwar et al](2018) (https://www.ncbi.nlm.nih.gov/pubmed/29922260)
   * R package: in preparation
+* Multi-Med:
+* Fdr-regression: 
+* Mentoring
+* DMD-metabolomics
+* MVMA
 
 ## Our collaborators
 ICBI is an academic hub for Data Science with the primary mission of conducting investigator initiated research in data science & Informatics, education and training. We use a variety of clinical and research data types, methods, tools, and resources and work with multiple Principal Investigators (PIs). We highlight some of our collaborators below:
