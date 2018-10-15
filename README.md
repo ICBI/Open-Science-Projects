@@ -7,14 +7,21 @@ The [Innovation Center for Biomedical Informatics (ICBI)](https://icbi.georgetow
 ## Software Development
 The research information technology group at ICBI develops innovative scientific software to enable translational research. Our projects include muti-omics data analysis, vaccine safety research, clinical data analysis, high definition data visualization, natural language processing, and mobile application development. 
 
-### Some of our open science projects
+As of October 2018, we have a total of 56 github repositories and 17 members. 
+
+## Some of our open science projects
 * G-DOC: Our Flagship precision medicine platform that enables the integrative analysis of multiple data types to understand disease mechanisms. 
   * To access our platform, click here: https://gdoc.georgetown.edu/gdoc
   * Publications: [Bhuvaneshwar et al (2016)](https://www.ncbi.nlm.nih.gov/pubmed/27130330), [Madhavan et al (2011)](https://www.ncbi.nlm.nih.gov/pubmed/21969811)
   * Github pages: https://github.com/ICBI/gdoc
   * G-DOC Tutorials and webinar recordings are available here: https://gdoc.georgetown.edu/tutorials
-* CINdex: 
-* viGEN:
+* CINdex: A Bioconductor Package for Analysis of Chromosome Instability in DNA Copy Number Data
+ * Link to package: http://bioconductor.org/packages/CINdex/
+ * Publication: [Song et al (2017)] (https://www.ncbi.nlm.nih.gov/pubmed/29343938)
+* viGEN: An Open Source Pipeline for the Detection and Quantification of Viral RNA in Human Tumors
+ * Link to code in github: https://github.com/ICBI/viGEN
+ * Link to publication: [Bhuvaneshwar et al](2018) (https://www.ncbi.nlm.nih.gov/pubmed/29922260)
+ * R package: in preparation
 
 
 ## Find us online: 
