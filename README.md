@@ -17,9 +17,9 @@ As of October 2018, we have a total of 56 github repositories and 17 members.
   * G-DOC Tutorials and webinar recordings are available here: [https://gdoc.georgetown.edu/tutorials](https://gdoc.georgetown.edu/tutorials)
 * CINdex: A Bioconductor Package for Analysis of Chromosome Instability in DNA Copy Number Data
   * Link to package: [http://bioconductor.org/packages/CINdex/](http://bioconductor.org/packages/CINdex/)
-  * Publication: [Song et al (2017)] (https://www.ncbi.nlm.nih.gov/pubmed/29343938)
+  * Publication: [Song et al (2017)](https://www.ncbi.nlm.nih.gov/pubmed/29343938)
 * viGEN: An Open Source Pipeline for the Detection and Quantification of Viral RNA in Human Tumors
-  * Link to code in github: https://github.com/ICBI/viGEN
+  * Link to code in github: [https://github.com/ICBI/viGEN](https://github.com/ICBI/viGEN)
   * Link to publication: [Bhuvaneshwar et al](2018) (https://www.ncbi.nlm.nih.gov/pubmed/29922260)
   * R package: in preparation
 
