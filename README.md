@@ -26,7 +26,7 @@ As of October 2018, we have a total of 56 github repositories and 17 members.
 ## Our collaborators
 ICBI is an academic hub for Data Science with the primary mission of conducting investigator initiated research in data science & Informatics, education and training. We use a variety of clinical and research data types, methods, tools, and resources and work with multiple Principal Investigators (PIs). We highlight some of our collaborators below:
 
-* 
+* The Griffith Lab worked with our team on the [Clingen project](https://www.clinicalgenome.org/) on somatic mutations. [https://github.com/griffithlab](https://github.com/griffithlab)
 
 
 ## Find us online: 
