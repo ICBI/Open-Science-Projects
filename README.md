@@ -59,7 +59,7 @@ ICBI is an academic hub for Data Science with the primary mission of conducting 
 * [Héctor Corrada Bravo](http://github.com/hcorrada) is Associate Professor, at the Center for Bioinformatics and Computational Biology at Univ. of Maryland. His lab works with [@SiminaB](https://github.com/SiminaB) from ICBI on the CDGnet project. CDGnet is a tool for prioritizing targeted therapies based on an individual's tumor profile. It incorporates information from biological networks relevant to the cancer type and to the specific alterations, FDA-approved targeted cancer therapies and indications, additional gene-drug information, and data on whether given genes are oncogenes. You can see their Rshiny app (a work in progress) [here](https://siminaboca.shinyapps.io/Search_MP_results_using_FDA_approvals_targets_KEGG/).
 
 ### Some fun moments captured with our collaborators !
-<img src="master/collab.png" class="img-responsive" alt=""> </div>
+![Collaborators](collab.png)
 
 ## Find us online:   
 Visit our website: [https://icbi.georgetown.edu](https://icbi.georgetown.edu)   
