@@ -19,12 +19,12 @@ As of October 2018, we have a total of 56 github repositories and 17 members.
 * **CINdex**: A Bioconductor Package for Analysis of Chromosome Instability in DNA Copy Number Data 
   * Link to package: [http://bioconductor.org/packages/CINdex/](http://bioconductor.org/packages/CINdex/)
   * Publication: [Song et al (2017)](https://www.ncbi.nlm.nih.gov/pubmed/29343938)
-  * Team: [@leisong483](https://github.com/leisong483), [@krithikabhuvan](https://github.com/krithikabhuvan), [@subhamadhavan](https://github.com/subhamadhavan), [@yugusev](https://github.com/yugusev)
+  * Team: [@leisong483](https://github.com/leisong483), [@KrithikaB472](https://github.com/KrithikaB472), [@subhamadhavan](https://github.com/subhamadhavan), [@yugusev](https://github.com/yugusev)
 * **viGEN**: An Open Source Pipeline for the Detection and Quantification of Viral RNA in Human Tumors
   * Link to code in github: [https://github.com/ICBI/viGEN](https://github.com/ICBI/viGEN)
   * Link to publication: [Bhuvaneshwar et al(2018)](https://www.ncbi.nlm.nih.gov/pubmed/29922260)
   * R package: in preparation
-  * Team: [@krithikabhuvan](https://github.com/krithikabhuvan),[@leisong483](https://github.com/leisong483), [@subhamadhavan](https://github.com/subhamadhavan), [@yugusev](https://github.com/yugusev)
+  * Team: [@KrithikaB472](https://github.com/KrithikaB472),[@leisong483](https://github.com/leisong483), [@subhamadhavan](https://github.com/subhamadhavan), [@yugusev](https://github.com/yugusev)
 * **Multi-Med**: A Bioconductor package for Testing multiple biological mediators simultaneously
   * Link to package: [http://bioconductor.org/packages/MultiMed/](http://bioconductor.org/packages/MultiMed/)
   * Team: [@SiminaB](https://github.com/SiminaB) et al.
