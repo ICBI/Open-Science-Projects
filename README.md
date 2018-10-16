@@ -22,8 +22,11 @@ As of October 2018, we have a total of 56 github repositories and 17 members.
   * Link to code in github: [https://github.com/ICBI/viGEN](https://github.com/ICBI/viGEN)
   * Link to publication: [Bhuvaneshwar et al(2018)](https://www.ncbi.nlm.nih.gov/pubmed/29922260)
   * R package: in preparation
-* Multi-Med:
-* Fdr-regression: 
+* Multi-Med: A Bioconductor package for Testing multiple biological mediators simultaneously by @SiminaB and @JTleek
+  * Link to package: [http://bioconductor.org/packages/MultiMed/](http://bioconductor.org/packages/MultiMed/)
+* Fdr-regression: A github repository that contains code for "A direct approach to estimating false discovery rates conditional on covariates" by @SiminaB and JT Leek
+  * Link to code in github:[https://github.com/SiminaB/Fdr-regression](https://github.com/SiminaB/Fdr-regression)
+  * Link to paper in Biorxiv [https://doi.org/10.1101/035675](https://doi.org/10.1101/035675)
 * Mentoring
 * DMD-metabolomics
 * MVMA
