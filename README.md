@@ -53,7 +53,7 @@ As of October 2018, we have a total of 56 github repositories and 17 members.
 ## Our collaborators
 ICBI is an academic hub for Data Science with the primary mission of conducting investigator initiated research in data science & Informatics, education and training. We use a variety of clinical and research data types, methods, tools, and resources and work with multiple Principal Investigators (PIs). We highlight some of our collaborators below:
 
-* The Griffith Lab has developed [CIViC](https://civicdb.org/home) for crowdsourcing of gene/variant evidence curation and is working with us on the Clingen project on somatic mutations [https://github.com/griffithlab](https://github.com/griffithlab)
+* The Griffith Lab has developed [CIViC](https://civicdb.org/home) for crowdsourcing of gene/variant evidence curation and is working with us on the [Clingen](https://www.clinicalgenome.org/) project on somatic mutations [https://github.com/griffithlab](https://github.com/griffithlab)
 * [Matt Brush](https://github.com/mbrush) is a Research Assistant Professor at Oregon Health & Science University (OHSU). He performs ontology development, data modeling, and curation for Monarch Initiative. 
 * [Larry Babb](https://github.com/larrybabb) is a software developer at Broad Institute, and collaborates with ICBI on the Clingen project on somatic mutations 
 
