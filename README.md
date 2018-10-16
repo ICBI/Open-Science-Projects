@@ -47,7 +47,7 @@ As of October 2018, we have a total of 56 github repositories and 17 members.
   * Team: [@SiminaB](https://github.com/SiminaB) et al
 * **MVMA** .  
   *A github repository that contains code figures, and tables for paper "Multivariate meta-analysis with an increasing number of parameters"*
-  * Publication: [Boca et al](2017)(https://www.ncbi.nlm.nih.gov/pubmed/28195655)
+  * Publication: [Boca et al(2017)](https://www.ncbi.nlm.nih.gov/pubmed/28195655)
   * Team: [@SiminaB](https://github.com/SiminaB) et al
 
 ## Our collaborators
