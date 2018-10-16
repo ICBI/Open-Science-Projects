@@ -20,7 +20,7 @@ As of October 2018, we have a total of 56 github repositories and 17 members.
   * Publication: [Song et al (2017)](https://www.ncbi.nlm.nih.gov/pubmed/29343938)
 * viGEN: An Open Source Pipeline for the Detection and Quantification of Viral RNA in Human Tumors
   * Link to code in github: [https://github.com/ICBI/viGEN](https://github.com/ICBI/viGEN)
-  * Link to publication: [Bhuvaneshwar et al](2018) (https://www.ncbi.nlm.nih.gov/pubmed/29922260)
+  * Link to publication: [Bhuvaneshwar et al(2018)](https://www.ncbi.nlm.nih.gov/pubmed/29922260)
   * R package: in preparation
 * Multi-Med:
 * Fdr-regression: 
@@ -31,7 +31,7 @@ As of October 2018, we have a total of 56 github repositories and 17 members.
 ## Our collaborators
 ICBI is an academic hub for Data Science with the primary mission of conducting investigator initiated research in data science & Informatics, education and training. We use a variety of clinical and research data types, methods, tools, and resources and work with multiple Principal Investigators (PIs). We highlight some of our collaborators below:
 
-* The Griffith Lab worked with our team on the [Clingen project](https://www.clinicalgenome.org/) on somatic mutations. [https://github.com/griffithlab](https://github.com/griffithlab)
+* The Griffith Lab has developed [CIViC](https://civicdb.org/home) for crowdsourcing of gene/variant evidence curation and is working with us on the Clingen project on somatic mutations [https://github.com/griffithlab](https://github.com/griffithlab)
 
 
 ## Find us online: 
