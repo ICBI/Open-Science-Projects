@@ -10,35 +10,43 @@ The research information technology group at ICBI develops innovative scientific
 As of October 2018, we have a total of 56 github repositories and 17 members. 
 
 ## Some of our open science projects
-* **G-DOC**: Our Flagship precision medicine platform that enables the integrative analysis of multiple data types to understand disease mechanisms. 
+* **G-DOC**
+  *Our Flagship precision medicine platform that enables the integrative analysis of multiple data types to understand disease mechanisms* 
   * To access our platform, click here: [https://gdoc.georgetown.edu/gdoc](https://gdoc.georgetown.edu/gdoc)
   * Publications: [Bhuvaneshwar et al (2016)](https://www.ncbi.nlm.nih.gov/pubmed/27130330), [Madhavan et al (2011)](https://www.ncbi.nlm.nih.gov/pubmed/21969811)
   * Github pages: [https://github.com/ICBI/gdoc](https://github.com/ICBI/gdoc)
   * G-DOC Tutorials and webinar recordings are available here: [https://gdoc.georgetown.edu/tutorials](https://gdoc.georgetown.edu/tutorials)
   * Team: [@subhamadhavan](https://github.com/subhamadhavan) et al
-* **CINdex**: A Bioconductor Package for Analysis of Chromosome Instability in DNA Copy Number Data 
+* **CINdex**
+  *A Bioconductor Package for Analysis of Chromosome Instability in DNA Copy Number Data* 
   * Package: [http://bioconductor.org/packages/CINdex/](http://bioconductor.org/packages/CINdex/)
   * Publication: [Song et al (2017)](https://www.ncbi.nlm.nih.gov/pubmed/29343938)
   * Team: [@leisong483](https://github.com/leisong483), [@KrithikaB472](https://github.com/KrithikaB472), [@subhamadhavan](https://github.com/subhamadhavan), [@yugusev](https://github.com/yugusev)
-* **viGEN**: An Open Source Pipeline for the Detection and Quantification of Viral RNA in Human Tumors
+* **viGEN**
+  *An Open Source Pipeline for the Detection and Quantification of Viral RNA in Human Tumors*
   * Link to code in github: [https://github.com/ICBI/viGEN](https://github.com/ICBI/viGEN)
   * Publication: [Bhuvaneshwar et al(2018)](https://www.ncbi.nlm.nih.gov/pubmed/29922260)
   * R package: in preparation
   * Team: [@KrithikaB472](https://github.com/KrithikaB472),[@leisong483](https://github.com/leisong483), [@subhamadhavan](https://github.com/subhamadhavan), [@yugusev](https://github.com/yugusev)
-* **Multi-Med**: A Bioconductor package for Testing multiple biological mediators simultaneously
+* **Multi-Med**
+  *A Bioconductor package for Testing multiple biological mediators simultaneously*
   * Package: [http://bioconductor.org/packages/MultiMed/](http://bioconductor.org/packages/MultiMed/)
   * Team: [@SiminaB](https://github.com/SiminaB) et al.
-* **Fdr-regression**: A github repository that contains code for 'A direct approach to estimating false discovery rates conditional on covariates'
+* **Fdr-regression**
+  *A github repository that contains code for 'A direct approach to estimating false discovery rates conditional on covariates'*
   * Link to code in github:[https://github.com/SiminaB/Fdr-regression](https://github.com/SiminaB/Fdr-regression)
   * Link to paper in Biorxiv [https://doi.org/10.1101/035675](https://doi.org/10.1101/035675)
   * Team: [@SiminaB](https://github.com/SiminaB) and collaborator [@JTleek](https://github.com/JTleek)
-* **Mentoring**: A Github repo that offers various tips and tools for students
+* **Mentoring**
+  *A Github repo that offers various tips and tools for students*
   * By [@SiminaB](https://github.com/SiminaB)
-* **DMD-metabolomics**: A github repo that contains code for analysis of metabolomics data for DMD natural history study
+* **DMD-metabolomics**
+  *A github repo that contains code for analysis of metabolomics data for DMD natural history study*
   * Link to the code in github: [https://github.com/SiminaB/DMD-metabolomics](https://github.com/SiminaB/DMD-metabolomics)
   * Publication: [Boca et al (2016)](https://www.ncbi.nlm.nih.gov/pubmed/27082433)
   * Team: [@SiminaB](https://github.com/SiminaB) et al
-* **MVMA**: A github repository that contains code figures, and tables for paper "Multivariate meta-analysis with an increasing number of parameters"
+* **MVMA**
+  *A github repository that contains code figures, and tables for paper "Multivariate meta-analysis with an increasing number of parameters"*
   * Publication: [Boca et al)(2017)(https://www.ncbi.nlm.nih.gov/pubmed/28195655)
   * Team: [@SiminaB](https://github.com/SiminaB) et al
 
