@@ -10,26 +10,26 @@ The research information technology group at ICBI develops innovative scientific
 As of October 2018, we have a total of 56 github repositories and 17 members. 
 
 ## Some of our open science projects
-* G-DOC: Our Flagship precision medicine platform that enables the integrative analysis of multiple data types to understand disease mechanisms. 
+* **G-DOC**: Our Flagship precision medicine platform that enables the integrative analysis of multiple data types to understand disease mechanisms. 
   * To access our platform, click here: [https://gdoc.georgetown.edu/gdoc](https://gdoc.georgetown.edu/gdoc)
   * Publications: [Bhuvaneshwar et al (2016)](https://www.ncbi.nlm.nih.gov/pubmed/27130330), [Madhavan et al (2011)](https://www.ncbi.nlm.nih.gov/pubmed/21969811)
   * Github pages: [https://github.com/ICBI/gdoc](https://github.com/ICBI/gdoc)
   * G-DOC Tutorials and webinar recordings are available here: [https://gdoc.georgetown.edu/tutorials](https://gdoc.georgetown.edu/tutorials)
-* CINdex: A Bioconductor Package for Analysis of Chromosome Instability in DNA Copy Number Data
+* **CINdex**: A Bioconductor Package for Analysis of Chromosome Instability in DNA Copy Number Data
   * Link to package: [http://bioconductor.org/packages/CINdex/](http://bioconductor.org/packages/CINdex/)
   * Publication: [Song et al (2017)](https://www.ncbi.nlm.nih.gov/pubmed/29343938)
-* viGEN: An Open Source Pipeline for the Detection and Quantification of Viral RNA in Human Tumors
+* **viGEN**: An Open Source Pipeline for the Detection and Quantification of Viral RNA in Human Tumors
   * Link to code in github: [https://github.com/ICBI/viGEN](https://github.com/ICBI/viGEN)
   * Link to publication: [Bhuvaneshwar et al(2018)](https://www.ncbi.nlm.nih.gov/pubmed/29922260)
   * R package: in preparation
-* Multi-Med: A Bioconductor package for Testing multiple biological mediators simultaneously by @SiminaB and @JTleek
+* **Multi-Med**: A Bioconductor package for Testing multiple biological mediators simultaneously by @SiminaB and @JTleek
   * Link to package: [http://bioconductor.org/packages/MultiMed/](http://bioconductor.org/packages/MultiMed/)
-* Fdr-regression: A github repository that contains code for "A direct approach to estimating false discovery rates conditional on covariates" by @SiminaB and JT Leek
+* **Fdr-regression**: A github repository that contains code for "A direct approach to estimating false discovery rates conditional on covariates" by @SiminaB and JT Leek
   * Link to code in github:[https://github.com/SiminaB/Fdr-regression](https://github.com/SiminaB/Fdr-regression)
   * Link to paper in Biorxiv [https://doi.org/10.1101/035675](https://doi.org/10.1101/035675)
-* Mentoring
-* DMD-metabolomics
-* MVMA
+* **Mentoring**
+* **DMD-metabolomics**
+* **MVMA**
 
 ## Our collaborators
 ICBI is an academic hub for Data Science with the primary mission of conducting investigator initiated research in data science & Informatics, education and training. We use a variety of clinical and research data types, methods, tools, and resources and work with multiple Principal Investigators (PIs). We highlight some of our collaborators below:
