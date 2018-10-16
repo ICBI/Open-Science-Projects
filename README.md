@@ -25,7 +25,7 @@ As of October 2018, we have a total of 56 github repositories and 17 members.
 * **viGEN** .  
   *An Open Source Pipeline for the Detection and Quantification of Viral RNA in Human Tumors*
   * Link to code in github: [https://github.com/ICBI/viGEN](https://github.com/ICBI/viGEN)
-  * Publication: [Bhuvaneshwar et al(2018)](https://www.ncbi.nlm.nih.gov/pubmed/29922260)
+  * Publication: [Bhuvaneshwar et al (2018)](https://www.ncbi.nlm.nih.gov/pubmed/29922260)
   * R package: in preparation
   * Team: [@KrithikaB472](https://github.com/KrithikaB472),[@leisong483](https://github.com/leisong483), [@subhamadhavan](https://github.com/subhamadhavan), [@yugusev](https://github.com/yugusev)
 * **Multi-Med** .  
@@ -47,7 +47,7 @@ As of October 2018, we have a total of 56 github repositories and 17 members.
   * Team: [@SiminaB](https://github.com/SiminaB) et al
 * **MVMA** .  
   *A github repository that contains code figures, and tables for paper "Multivariate meta-analysis with an increasing number of parameters"*
-  * Publication: [Boca et al(2017)](https://www.ncbi.nlm.nih.gov/pubmed/28195655)
+  * Publication: [Boca et al (2017)](https://www.ncbi.nlm.nih.gov/pubmed/28195655)
   * Team: [@SiminaB](https://github.com/SiminaB) et al
 
 ## Our collaborators
