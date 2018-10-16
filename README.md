@@ -58,7 +58,7 @@ ICBI is an academic hub for Data Science with the primary mission of conducting 
 * [Larry Babb](https://github.com/larrybabb) is a software developer at Broad Institute, and collaborates with ICBI on the Clingen project on somatic mutations 
 
 ### Some fun moments captured with our collaborators !
-![Some fun moments captured](https://github.com/ICBI/ICBI.github.io/blob/master/collab.png)
+![Collaborators](https://github.com/ICBI/ICBI.github.io/blob/master/collab.png)
 
 ## Find us online:   
 Visit our website: [https://icbi.georgetown.edu](https://icbi.georgetown.edu)   
