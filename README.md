@@ -57,7 +57,7 @@ ICBI is an academic hub for Data Science with the primary mission of conducting 
 * [Matt Brush](https://github.com/mbrush) is a Research Assistant Professor at Oregon Health & Science University (OHSU). He performs ontology development, data modeling, and curation for Monarch Initiative. 
 * [Larry Babb](https://github.com/larrybabb) is a software developer at Broad Institute, and collaborates with ICBI on the Clingen project on somatic mutations 
 
- ![Some fun moments captured !](http://url/to/img.png)
+ ![Some fun moments captured !](https://github.com/ICBI/ICBI.github.io/blob/master/collab.png)
 
 ## Find us online:   
 Visit our website: [https://icbi.georgetown.edu](https://icbi.georgetown.edu)   
