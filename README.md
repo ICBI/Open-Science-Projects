@@ -66,7 +66,21 @@ As of October 2018, we have a total of 56 github repositories and 17 members.
   * Link to github repository: [https://github.com/mccoymd/snp2sim](https://github.com/mccoymd/snp2sim)
   * Team: [@mccoymd](https://github.com/mccoymd) et al.
   * Publication: In preparation
-  
+* **CPTAC Data Portal** .  
+*The CPTAC Data Portal is a centralized repository for the public dissemination of proteomic sequence datasets collected by The Clinical Proteomic Tumor Analysis Consortium (CPTAC), along with corresponding genomic sequence datasets*
+  * Link to the portal: [https://proteomics.cancer.gov/data-portal](https://proteomics.cancer.gov/data-portal)
+  * Publication: [Edwards et al (2015)](https://www.ncbi.nlm.nih.gov/pubmed/25873244)
+  * Team: [@pmcgarvey](https://github.com/orgs/ICBI/people/pmcgarvey) et al 
+* **Uniprot** .  
+*UniProt is a freely accessible database of protein sequence and functional information, many entries being derived from genome sequencing projects. It contains a large amount of information about the biological function of proteins derived from the research literature*
+  * Link to the portal: [www.uniprot.org](www.uniprot.org)
+  * Viral reference proteomes: [Viral reference proteomes](https://www.uniprot.org/proteomes/?query=*&fil=taxonomy%3A%22Viruses+%5B10239%5D%22)
+  * UniRef database: [https://www.uniprot.org/uniref/](https://www.uniprot.org/uniref/)
+  * ID mapping service: [https://www.uniprot.org/uploadlists/](https://www.uniprot.org/uploadlists/)
+  * Team: [@pmcgarvey](https://github.com/orgs/ICBI/people/pmcgarvey) et al 
+  * Publications: [UniProt: the universal protein knowledgebase (2017)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5861450/), [Suzek et al (2015)](https://academic.oup.com/bioinformatics/article/31/6/926/214968)
+
+
 ## Our collaborators in Open Science
 ICBI is an academic hub for Data Science with the primary mission of conducting investigator initiated research in data science & Informatics, education and training. We use a variety of clinical and research data types, methods, tools, and resources and work with multiple Principal Investigators (PIs). We highlight some of our collaborators below:
 
