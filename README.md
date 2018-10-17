@@ -58,6 +58,7 @@ As of October 2018, we have a total of 56 github repositories and 17 members.
   *The REMBRANDT study, a large collection of genomic data from brain cancer patients. It is accessible for conducting clinical translational research using the open access Georgetown Database of Cancer (G-DOC) platform. In addition, the raw and processed genomics and transcriptomics data have also been made available via the public NCBI GEO repository as a super series GSE108476. Such combined datasets would provide researchers with a unique opportunity to conduct integrative analysis of gene expression and copy number changes in patients alongside clinical outcomes (overall survival) using this large brain cancer study*
   * To access the dataset in the G-DOC platform: [https://gdoc.georgetown.edu/gdoc](https://gdoc.georgetown.edu/gdoc)
   * Raw data: [https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE108476](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE108476)
+  * MRI images: [The Cancer Imaging Archive (TCIA)](https://wiki.cancerimagingarchive.net/display/Public/REMBRANDT) 
   * Publication: [Gusev et al (2018)](https://www.nature.com/articles/sdata2018158) 
   * Team: [@yugusev](https://github.com/yugusev), [@KrithikaB472](https://github.com/KrithikaB472),[@subhamadhavan](https://github.com/subhamadhavan)
   
