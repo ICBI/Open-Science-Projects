@@ -17,6 +17,15 @@ As of October 2018, we have a total of 56 github repositories and 17 members.
   * Github pages: [https://github.com/ICBI/gdoc](https://github.com/ICBI/gdoc)
   * G-DOC Tutorials and webinar recordings are available here: [https://gdoc.georgetown.edu/tutorials](https://gdoc.georgetown.edu/tutorials)
   * Team: [@subhamadhavan](https://github.com/subhamadhavan) et al
+* **MACE2K** .  
+ *Molecular And Clinical Extraction: A Natural Language Processing Tool for Personalized Medicine. As part of NIH’s BD2K (“Big Data to Knowledge”) program, we received a U01 grant for the development of “MACE2K” – Molecular and Clinical Extraction to Knowledge for Precision Medicine. MACE2K is a software tool to automatically extract information and visualize it in a value added manner to can help clinicians and clinical researchers assess the overall evidence associated with biomarkers that predict response to cancer therapies*
+ * Publication: 
+ * Team: [@pmcgarvey](https://github.com/orgs/ICBI/people/pmcgarvey), [@shrutir](https://github.com/orgs/ICBI/people/shrutir), [@subhamadhavan](https://github.com/subhamadhavan)
+* **eGARD**
+*Extracting Genomic Anomalies association with Response to Drugs. eGARD is a natural language processing (NLP) based text mining (TM)
+system that can be used to extract associations between genomic anomalies and drug responses from text*
+  * Publication: [Mahmood et al (2017)](https://www.ncbi.nlm.nih.gov/pubmed/29261751)
+  * Team: [@pmcgarvey](https://github.com/orgs/ICBI/people/pmcgarvey), [@shrutir](https://github.com/orgs/ICBI/people/shrutir),, [@subhamadhavan](https://github.com/subhamadhavan)
 * **CINdex** .  
   *A Bioconductor Package for Analysis of Chromosome Instability in DNA Copy Number Data* 
   * Package: [http://bioconductor.org/packages/CINdex/](http://bioconductor.org/packages/CINdex/)
@@ -56,6 +65,7 @@ ICBI is an academic hub for Data Science with the primary mission of conducting 
 * [The Griffith Lab](https://github.com/griffithlab) has developed [CIViC](https://civicdb.org/home) for crowdsourcing of gene/variant evidence curation and is working with us on the [Clingen](https://www.clinicalgenome.org/) project on somatic mutations 
 * [Matt Brush](https://github.com/mbrush) is a Research Assistant Professor at Oregon Health & Science University (OHSU). He performs ontology development, data modeling, and curation for Monarch Initiative. 
 * [Larry Babb](https://github.com/larrybabb) is a software developer at Broad Institute, and collaborates with ICBI on the Clingen project on somatic mutations 
+* [Cathy Wu](https://bioinformatics.udel.edu/people/personnel/cathy_wu/) is Professor and Director, Center for Bioinformatics & Computational Biology (CBCB) at University of Delaware. Our team led by [@pmcgarvey](https://github.com/orgs/ICBI/people/pmcgarvey) collaborates with Cathy's team on the MACE2K project including the eGARD natural language processing (NLP) tool. 'MACE2K' – Molecular and Clinical Extraction to Knowledge for Precision Medicine is a software tool to automatically extract information and visualize it in a value added manner to can help clinicians and clinical researchers assess the overall evidence associated with biomarkers that predict response to cancer therapies. eGARD is an NLP based text mining (TM) system that can be used to extract associations between genomic anomalies and drug responses from text.
 * [Héctor Corrada Bravo](http://github.com/hcorrada) is Associate Professor, at the Center for Bioinformatics and Computational Biology at Univ. of Maryland. Our team led by [@SiminaB](https://github.com/SiminaB) collaborates with his lab on the CDGnet project. CDGnet is a tool for prioritizing targeted therapies based on an individual's tumor profile. It incorporates information from biological networks relevant to the cancer type and to the specific alterations, FDA-approved targeted cancer therapies and indications, additional gene-drug information, and data on whether given genes are oncogenes. You can see their Rshiny app (prototype) [here](https://siminaboca.shinyapps.io/Search_MP_results_using_FDA_approvals_targets_KEGG/).
 
 ### Some fun moments captured with our collaborators !
