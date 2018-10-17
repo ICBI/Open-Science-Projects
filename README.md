@@ -79,7 +79,7 @@ As of October 2018, we have a total of 56 github repositories and 17 members.
   * ID mapping service: [https://www.uniprot.org/uploadlists/](https://www.uniprot.org/uploadlists/)
   * Team: [@pmcgarvey](https://github.com/orgs/ICBI/people/pmcgarvey) et al 
   * Publications: [UniProt: the universal protein knowledgebase (2017)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5861450/), [Suzek et al (2015)](https://academic.oup.com/bioinformatics/article/31/6/926/214968)
-* **CDGnet** . 
+* **CDGnet** .   
 *CDGnet is a tool for prioritizing targeted therapies based on an individual’s tumor profile. It incorporates information from biological networks relevant to the cancer type and to the specific alterations, FDA-approved targeted cancer therapies and indications, additional gene-drug information, and data on whether given genes are oncogenes.* 
   * Link to Rshiny app (prototype): [Rshiny](https://siminaboca.shinyapps.io/Search_MP_results_using_FDA_approvals_targets_KEGG/)
   * Publication: In preparation
