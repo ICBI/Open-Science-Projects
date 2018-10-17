@@ -51,9 +51,9 @@ As of October 2018, we have a total of 56 github repositories and 17 members.
   * Team: [@SiminaB](https://github.com/SiminaB) et al
 * **MACE2K** .  
  *Molecular And Clinical Extraction: A Natural Language Processing Tool for Personalized Medicine. As part of NIH’s BD2K (“Big Data to Knowledge”) program, we received a U01 grant for the development of “MACE2K” – Molecular and Clinical Extraction to Knowledge for Precision Medicine. MACE2K is a software tool to automatically extract information and visualize it in a value added manner to can help clinicians and clinical researchers assess the overall evidence associated with biomarkers that predict response to cancer therapies*
- * Link to website: [http://mace2k.org/](http://mace2k.org/)
- * Publication: In preparation
- * Team: [@pmcgarvey](https://github.com/orgs/ICBI/people/pmcgarvey), [@shrutir](https://github.com/orgs/ICBI/people/shrutir), [@subhamadhavan](https://github.com/subhamadhavan)
+  * Link to website: [http://mace2k.org/](http://mace2k.org/)
+  * Publication: In preparation
+  * Team: [@pmcgarvey](https://github.com/orgs/ICBI/people/pmcgarvey), [@shrutir](https://github.com/orgs/ICBI/people/shrutir), [@subhamadhavan](https://github.com/subhamadhavan)
 * ** The REMBRANDT dataset** .  
   *The REMBRANDT study, a large collection of genomic data from brain cancer patients. It is accessible for conducting clinical translational research using the open access Georgetown Database of Cancer (G-DOC) platform. In addition, the raw and processed genomics and transcriptomics data have also been made available via the public NCBI GEO repository as a super series GSE108476. Such combined datasets would provide researchers with a unique opportunity to conduct integrative analysis of gene expression and copy number changes in patients alongside clinical outcomes (overall survival) using this large brain cancer study*
   * To access the dataset in the G-DOC platform: [https://gdoc.georgetown.edu/gdoc](https://gdoc.georgetown.edu/gdoc)
