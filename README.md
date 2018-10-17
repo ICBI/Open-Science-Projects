@@ -51,13 +51,9 @@ As of October 2018, we have a total of 56 github repositories and 17 members.
   * Team: [@SiminaB](https://github.com/SiminaB) et al
 * **MACE2K** .  
  *Molecular And Clinical Extraction: A Natural Language Processing Tool for Personalized Medicine. As part of NIH’s BD2K (“Big Data to Knowledge”) program, we received a U01 grant for the development of “MACE2K” – Molecular and Clinical Extraction to Knowledge for Precision Medicine. MACE2K is a software tool to automatically extract information and visualize it in a value added manner to can help clinicians and clinical researchers assess the overall evidence associated with biomarkers that predict response to cancer therapies*
- * Publication: 
+ * Link to website: [http://mace2k.org/](http://mace2k.org/)
+ * Publication: In preparation
  * Team: [@pmcgarvey](https://github.com/orgs/ICBI/people/pmcgarvey), [@shrutir](https://github.com/orgs/ICBI/people/shrutir), [@subhamadhavan](https://github.com/subhamadhavan)
-* **eGARD**
-*Extracting Genomic Anomalies association with Response to Drugs. eGARD is a natural language processing (NLP) based text mining (TM)
-system that can be used to extract associations between genomic anomalies and drug responses from text*
-  * Publication: [Mahmood et al (2017)](https://www.ncbi.nlm.nih.gov/pubmed/29261751)
-  * Team: [@pmcgarvey](https://github.com/orgs/ICBI/people/pmcgarvey), [@shrutir](https://github.com/orgs/ICBI/people/shrutir),, [@subhamadhavan](https://github.com/subhamadhavan)
   
 ## Our collaborators
 ICBI is an academic hub for Data Science with the primary mission of conducting investigator initiated research in data science & Informatics, education and training. We use a variety of clinical and research data types, methods, tools, and resources and work with multiple Principal Investigators (PIs). We highlight some of our collaborators below:
