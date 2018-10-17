@@ -61,6 +61,11 @@ As of October 2018, we have a total of 56 github repositories and 17 members.
   * MRI images: [The Cancer Imaging Archive (TCIA)](https://wiki.cancerimagingarchive.net/display/Public/REMBRANDT) 
   * Publication: [Gusev et al (2018)](https://www.nature.com/articles/sdata2018158) 
   * Team: [@yugusev](https://github.com/yugusev), [@KrithikaB472](https://github.com/KrithikaB472),[@subhamadhavan](https://github.com/subhamadhavan)
+* **snp2sim** .  
+*A github repository that contains a workflow for Molecular Simulation of Somatic Variation*
+  * Link to github repository: [https://github.com/mccoymd/snp2sim](https://github.com/mccoymd/snp2sim)
+  * Team: [@mccoymd](https://github.com/mccoymd) et al.
+  * Publication: In preparation
   
 ## Our collaborators in Open Science
 ICBI is an academic hub for Data Science with the primary mission of conducting investigator initiated research in data science & Informatics, education and training. We use a variety of clinical and research data types, methods, tools, and resources and work with multiple Principal Investigators (PIs). We highlight some of our collaborators below:
