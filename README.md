@@ -62,7 +62,7 @@ As of October 2018, we have a total of 56 github repositories and 17 members.
   * Publication: [Gusev et al (2018)](https://www.nature.com/articles/sdata2018158) 
   * Team: [@yugusev](https://github.com/yugusev), [@KrithikaB472](https://github.com/KrithikaB472),[@subhamadhavan](https://github.com/subhamadhavan)
   
-## Our collaborators
+## Our collaborators in Open Science
 ICBI is an academic hub for Data Science with the primary mission of conducting investigator initiated research in data science & Informatics, education and training. We use a variety of clinical and research data types, methods, tools, and resources and work with multiple Principal Investigators (PIs). We highlight some of our collaborators below:
 
 * [The Griffith Lab](https://github.com/griffithlab) has developed [CIViC](https://civicdb.org/home) for crowdsourcing of gene/variant evidence curation and is working with us on the [Clingen](https://www.clinicalgenome.org/) project on somatic mutations 
