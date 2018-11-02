@@ -84,6 +84,11 @@ As of October 2018, we have a total of 56 github repositories and 17 members.
   * Link to Rshiny app (prototype): [Rshiny](https://siminaboca.shinyapps.io/Search_MP_results_using_FDA_approvals_targets_KEGG/)
   * Publication: In preparation
   * Team: [@SiminaB](https://github.com/SiminaB) et al
+* **POPSTR** .  
+*Inference of admixed population structure based on single nucleotide polymorphisms and copy number variations*
+  * Link to software: [https://sites.google.com/a/georgetown.edu/jaeil/popstr](https://sites.google.com/a/georgetown.edu/jaeil/popstr)
+  * Publication: [Ahn et al (2018)](https://www.ncbi.nlm.nih.gov/pubmed/29293371)
+  * Team: Jaeil Ahn, Brian Conkright, [@SiminaB](https://github.com/SiminaB), [@subhamadhavan](https://github.com/subhamadhavan)
 
 ## Our collaborators in Open Science
 ICBI is an academic hub for Data Science with the primary mission of conducting investigator initiated research in data science & Informatics, education and training. We use a variety of clinical and research data types, methods, tools, and resources and work with multiple Principal Investigators (PIs). We highlight some of our collaborators below:
