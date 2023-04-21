@@ -1,7 +1,7 @@
 
-Welcome to the Github page of the Innovation Center For Biomedical Informatics (ICBI) !
+# Georgetown-ICBI Open Science projects
 
-## About us
+## About Georgetown-ICBI
 The [Innovation Center for Biomedical Informatics (ICBI)](https://icbi.georgetown.edu) at [Georgetown University](https://lombardi.georgetown.edu/Biomedical-Informatics.html) was launched in 2012 as an academic hub for innovative research in the field of data science and biomedical informatics, with the goal of enabling individualized approaches to healthcare through data science and informatics approaches. ICBI’s mission is to enhance clinical and translational research at Georgetown University Medical Center as well as its partners and, in turn, attract and educate the next generation of scientists and physicians for whom biomedical informatics and health data science will be an integral part of both biomedical research and clinical practice. 
 
 ## Software Development
