@@ -7,7 +7,7 @@ The [Innovation Center for Biomedical Informatics (ICBI)](https://icbi.georgetow
 ## Software Development
 The research information technology group at ICBI develops innovative scientific software to enable translational research. Our projects include muti-omics data analysis, vaccine safety research, clinical data analysis, high definition data visualization, natural language processing, and mobile application development. 
 
-As of October 2018, we have a total of 56 github repositories and 17 members. 
+As of 2013, we have a total of 78 github repositories (private and public) 
 
 ## Some of our open science projects
 * **G-DOC** .  
